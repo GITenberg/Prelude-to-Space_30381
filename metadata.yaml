@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '34570'
     url: http://www.gutenberg.org/2009/agents/34570
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30381#Prelude-to-Space
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-11-01'
 gutenberg_type: Text
